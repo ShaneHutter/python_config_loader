@@ -1,0 +1,6 @@
+bind:
+  host: 127.0.0.2
+  port: 2080
+options:
+  name: "Some App"
+  enable_this: True
